@@ -20,11 +20,10 @@ else count <= count;                // holds present value
 
 ## Design / RTL Program
 
-
+<img width="1246" height="487" alt="exp7 (2)" src="https://github.com/user-attachments/assets/1dbeee6b-3e49-4b0b-924c-2acb3044056f" />
 
 ## Testbench Program
-
-
+<img width="1556" height="1028" alt="exp7 (1)" src="https://github.com/user-attachments/assets/e52e5bcf-f2d2-487e-b348-1444353b3f91" />
 
 
 ## Operation / Truth Table
@@ -89,27 +88,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
-
-
-## Viva-Voce Questions
-
-●	What is the difference between a synchronous counter and a ripple (asynchronous) counter?
-
-●	What is the modulus of this counter, and how is it related to the number of bits?
-
-●	What happens to the count value on overflow, and why is this called 'wrap-around'?
-
-●	What is the purpose of the enable (en) input, and what would happen if it were removed?
-
-●	How would you modify this design to create a down-counter?
-
-●	How would you modify this design to create an up/down counter with a direction control input?
-
-●	What is the difference between a synchronous and an asynchronous reset, and which one is used here?
-
-●	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-●	How would you extend this design to an 8-bit or a mod-10 (decade) counter?
+<img width="1685" height="430" alt="exp7 (3)" src="https://github.com/user-attachments/assets/7617f4b2-a810-49f6-81a2-0f1b2487d2a4" />
 
 ## Result
 
